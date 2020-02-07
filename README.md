@@ -5,4 +5,4 @@ Predict price fluctuation of multiple stocks in five minuts intervals based on T
 Example : if a tweet of interest is released at 15:05:00, predict a stock price from 15:05 to 15:10.
 
 
-Sock data and Twitter data is available
+Stock Price data and Twitter News Data is available
